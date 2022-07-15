@@ -1,0 +1,16 @@
+
+
+git init
+git add .
+git config --global user.name "nib792"
+git config --global user.email "mishrarabin92@gmail.com"
+git commit -m "initial commit"
+git remote add origin https://github.com/nib792/restaurantly-responsive.git
+and then just create a token so that it will only be us and those who are given the accesss priviliges to change or commit any change in the existing repo
+for that purpose we will be needing  a token so as to owm the authority of the code
+to get the token click on settings go to developer settings and then click o n personal access token and crerate a new token it will ask for the
+git remote set-url origin https://nib792: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@github.com/nib792/restaurantly-responsive.git
+
+
+
+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
